@@ -24,6 +24,8 @@ I am Madushani who is a Software Engineering undergraduate living in Sri Lanka. 
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
 </p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Ishan-Chanuka&color=ED8B00" atl="Ishan-Chanuka"</p>
 <!--
 **MadushaniR/MadushaniR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
