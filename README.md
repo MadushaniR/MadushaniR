@@ -1,4 +1,4 @@
-### Hi there, I'm Madushani Rodrigo 👋
+### Hi there, I'm Madushani Rodrigo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 
 I am a third-year Software Engineering undergraduate student at University of Westminster who is passionate about making software applications and learning new technologies. I am interested in front-end development. So, I'm looking forward to collaborating on open-source or commercial projects.
@@ -41,6 +41,7 @@ I am a third-year Software Engineering undergraduate student at University of We
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
   </a>
+  <a href = "mailto:madushanisewwandika2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_mxdushxni_/">
   <img
     alt="Instagram"
@@ -64,3 +65,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
