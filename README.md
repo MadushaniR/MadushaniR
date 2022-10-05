@@ -1,7 +1,7 @@
 ### Hi there, I'm Madushani Rodrigo 👋
 
 
-I am a third-year Software Engineering undergraduate student at the University of Westminster who is living in Sri Lanka. I am interested in front-end development. Also passionate about designing UI for any application. So, I'm looking forward to collaborating on open-source or commercial projects.
+I am a third-year Software Engineering undergraduate student at University of Westminster who is passionate about making software applications and learning new technologies. I am interested in front-end development. So, I'm looking forward to collaborating on open-source or commercial projects.
 
 
 <h3> Programming languages: </h3>
@@ -10,6 +10,7 @@ I am a third-year Software Engineering undergraduate student at the University o
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
@@ -30,6 +31,22 @@ I am a third-year Software Engineering undergraduate student at the University o
 <h3> Databases: </h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h3> Contact Me: </h3>
+<p>
+  <a href="https://www.linkedin.com/in/madushani-rodrigo-68b9b81b8/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+  </a>
+  <a href="https://www.instagram.com/_mxdushxni_/">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+  />
+  </a>
 </p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Ishan-Chanuka&color=ED8B00" atl="MadushaniR"</p>
