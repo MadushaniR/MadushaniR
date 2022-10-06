@@ -43,7 +43,7 @@ I am a third-year Software Engineering undergraduate student at University of We
     <a href="mailto:madushanisewwandika2@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </p>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Ishan-Chanuka&color=ED8B00" atl="MadushaniR"</p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=MadushaniR&color=ED8B00" atl="MadushaniR"</p>
 <!--
 **MadushaniR/MadushaniR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
