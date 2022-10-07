@@ -1,8 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Madushani Rodrigo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-
 <p align="center"> I am a third-year Software Engineering undergraduate student at University of Westminster who is passionate about making software applications and learning new technologies. I am interested in front-end development. So, I'm looking forward to collaborating on open-source or commercial projects.</p>
-
 <br>
 
 <p align="center">
@@ -16,7 +14,6 @@
 ## Tech Stack 💻
 
 #### Languages
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
@@ -54,26 +51,29 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000?style=for-the-badge&logo=anaconda&logoColor=white")
 ![Google Colab](https://img.shields.io/badge/-Colab-000?style=for-the-badge&logo=googlecolab&logoColor=white")
 
-
 #### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-
 
 #### Design / Visual Tools
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-000?style=for-the-badge&logo=adobe%20photoshop)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 
 <h2 align="center"> 🔥 Streak Stats 🔥 </h2>
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadushaniR&theme=monokai-metallian&hide_border=true"/></a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadushaniR&theme=monokai-metallian&hide_border=true"/></a>
 </p>
 
 
+**Github Stats:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadushaniR&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadushaniR&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+</p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MadushaniR&color=ED8B00" atl="MadushaniR"</p>
+
+
 <!--
 **MadushaniR/MadushaniR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -90,45 +90,10 @@ Here are some ideas to get you started:
 ![Notepad++](https://img.shields.io/badge/-Notepad++-000?style=for-the-badge&logo=notepad++&logoColor=white")
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000?style=for-the-badge&logo=intellij&logoColor=white")
 
-## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=MadushaniR&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadushaniR&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-> 
-## GitHub Streaks 🔥
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=MadushaniR&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MadushaniR&theme=react&border=61dafb&hide_border=true" alt="MadushaniR" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=MadushaniR&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadushaniR&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=MadushaniR&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-
 **Github Stats:**
-
 <p align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=MadushaniR&count_private=true&show_icons=true&theme=dracula&line_height=33">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadushaniR&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
-
 </p>
 -->
 
