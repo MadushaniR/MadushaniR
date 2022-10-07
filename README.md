@@ -52,6 +52,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=Jupyter)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logo=PyCharm&logoColor=white")
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000?style=for-the-badge&logo=anaconda&logoColor=white")
+![Google Colab](https://img.shields.io/badge/-Colab-000?style=for-the-badge&logo=googlecolab&logoColor=white")
 
 
 #### Databases
@@ -69,6 +70,7 @@
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadushaniR&theme=monokai-metallian&hide_border=true"/></a>
 </p>
+
 
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MadushaniR&color=ED8B00" atl="MadushaniR"</p>
@@ -118,6 +120,16 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
+
+
+**Github Stats:**
+
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=MadushaniR&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadushaniR&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+
+</p>
 -->
 
 
