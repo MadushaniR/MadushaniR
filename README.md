@@ -44,7 +44,7 @@
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-
+![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)
 
 #### Software and Tools
 ![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?style=for-the-badge&logo=visual%20studio&logoColor=blue)
