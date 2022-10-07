@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there, I'm Madushani Rodrigo <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
+<h1 align="center"> Hi 👋🏻, I'm Madushani Rodrigo </h1>
 
 
-I am a third-year Software Engineering undergraduate student at University of Westminster who is passionate about making software applications and learning new technologies. I am interested in front-end development. So, I'm looking forward to collaborating on open-source or commercial projects.
+<p align="center"> I am a third-year Software Engineering undergraduate student at University of Westminster who is passionate about making software applications and learning new technologies. I am interested in front-end development. So, I'm looking forward to collaborating on open-source or commercial projects.</p>
 
 
 <h3>👨‍💻 Programming languages: </h3>
