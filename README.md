@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋🏻, I'm Madushani Rodrigo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center">✨ Hi 👋🏻, I'm Madushani Rodrigo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">✨</h1>
 
 <p align="center"> I am a third-year Software Engineering undergraduate student at University of Westminster who is passionate about making software applications and learning new technologies. I am interested in front-end development. So, I'm looking forward to collaborating on open-source or commercial projects.</p>
 <br>
@@ -11,7 +11,7 @@
     <a href="mailto:madushanisewwandika2@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </p>
 
-## Tech Stack 💻✨
+## Tech Stack 💻
 
 #### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
