@@ -11,7 +11,7 @@
     <a href="mailto:madushanisewwandika2@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </p>
 
-## Tech Stack 💻
+## Tech Stack 💻✨
 
 #### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
