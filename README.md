@@ -22,7 +22,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
 ![R](https://img.shields.io/badge/-R-000?style=for-the-badge&logo=R)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=Sql)
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=amazon-dynamodb)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP)
 
 #### Frameworks and Libraries
