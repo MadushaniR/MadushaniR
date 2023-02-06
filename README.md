@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi 👋🏻, I'm Madushani Rodrigo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">✨</h1>
 
-<p align="center"> I am a third-year Software Engineering undergraduate student at University of Westminster who is passionate about making software applications and learning new technologies. I am interested in front-end development. So, I'm looking forward to collaborating on open-source or commercial projects.</p>
+<p align="center"> I am a third-year Software Engineering undergraduate student at University of Westminster, UK who is passionate about making software applications and learning new technologies. I am interested in front-end development. So, I'm looking forward to collaborating on open-source or commercial projects.</p>
 <br>
 
 <p align="center">
