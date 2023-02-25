@@ -31,6 +31,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![jQuery](https://img.shields.io/badge/jquery-000?style=for-the-badge&logo=jquery&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-000?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-000?style=for-the-badge&logo=scikit-learn)
@@ -43,6 +44,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?style=for-the-badge&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/bitbucket-000?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 #### Software and Tools
 ![Visual_Studio](https://img.shields.io/badge/-Visual_Studio-000?style=for-the-badge&logo=visual%20studio&logoColor=blue)
