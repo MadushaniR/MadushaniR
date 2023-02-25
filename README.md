@@ -70,6 +70,11 @@
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadushaniR&theme=monokai-metallian&hide_border=true"/></a>
 </p>
+<!-- 
+## Current GitHub Stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=MadushaniR&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadushaniR&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact) -->
+
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MadushaniR&color=ED8B00" atl="MadushaniR"</p>
 
