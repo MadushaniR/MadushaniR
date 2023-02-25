@@ -29,6 +29,7 @@
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-000?style=for-the-badge&logo=scikit-learn)
