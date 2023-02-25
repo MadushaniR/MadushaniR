@@ -30,7 +30,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
-![Kendo](https://img.shields.io/badge/-Kendo-000?style=for-the-badge&logo=kendo)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg-000?style=for-the-badge&logo=jquery&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=pandas)
 ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-000?style=for-the-badge&logo=scikit-learn)
