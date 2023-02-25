@@ -53,6 +53,10 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=for-the-badge&logo=PyCharm&logoColor=white")
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000?style=for-the-badge&logo=anaconda&logoColor=white")
 ![Google Colab](https://img.shields.io/badge/-Colab-000?style=for-the-badge&logo=googlecolab&logoColor=white")
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-000?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-000?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+![RStudio](https://img.shields.io/badge/RStudio-000?style=for-the-badge&logo=rstudio&logoColor=white)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
