@@ -68,7 +68,7 @@
 <h2 align="center"> 🔥 Streak Stats 🔥 </h2>
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Noman Iqbal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadushaniR&theme=monokai-metallian&hide_border=true"/></a>
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MadushaniR's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MadushaniR&theme=monokai-metallian&hide_border=true"/></a>
 </p>
 
 <!-- ## Current GitHub Stats 📊
