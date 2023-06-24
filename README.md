@@ -18,10 +18,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=sass)
 ![R](https://img.shields.io/badge/-R-000?style=for-the-badge&logo=R)
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=amazon-dynamodb)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP)
 
