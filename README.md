@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/madushani-rodrigo-68b9b81b8/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/madushani.rodrigo.750/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" title="Facebook Profile" alt="Facebook"/></a>
 		<a href="https://www.instagram.com/_mxdushxni_/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
-    <a href="mailto:madushanisewwandika2@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
+    <a href="mailto:madushanirodrigo086@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </p>
 
 ## Tech Stack 💻
