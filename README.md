@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hi 👋🏻, I'm Madushani Rodrigo <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">✨</h1>
 
-<p align="center"> I'm a fresh graduate from the University of Westminster, UK, with a BEng(Hons) in Software Engineering, graduating with First Class Honours. With over 2 years of industry experience, I've developed a strong background in full-stack development. I thrive on tackling challenges and innovating within dynamic environments. I’m on the lookout for opportunities where I can contribute, grow, and make an impact.
+<p align="center">I’m a software engineer with over 2 years of industry experience in frontend development. I hold a First Class Honours degree in Software Engineering from the University of Westminster, UK. I’m passionate about building seamless, user-friendly web applications and always eager to learn new technologies and take on new challenges.
 </p>
 <p align="center"> 🌟 Let’s connect and explore how we can create amazing solutions together!</p>
 <br>
